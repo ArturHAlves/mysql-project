@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# All For One
+
+## :page_with_curl: Sobre
+
+Projeto All For One, desenvolvido por [Artur Henrique](https://github.com/ArturHAlves)
+no final da [Seção 2 - SQL](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-02-SQL)
+no curso de Desenvolvimento Web da Trybe. Eu fui aprovado com 100% dos requisitos. 
+
+Proposta: O projeto propõe uma série de desafios com níveis variados de complexidade que devem ser solucionados utilizando o banco de dados "Northwind".
+
+## :hammer_and_wrench: Conhecimento aplicados:
+
+* MySQL
+* SQL
+
+## Imagem
+
+![all-for-one](https://github.com/tryber/sd-027-a-project-shopping-cart/assets/111790827/3a7c52c0-f913-486b-aa90-6e227ee5fef8)
